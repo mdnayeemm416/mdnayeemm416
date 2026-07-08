@@ -10,7 +10,7 @@ I'm always eager to learn new technologies, contribute to open-source projects, 
 
 ### Skills
 
-**Languages:** Dart • Swift • JavaScript • Python
+**Languages:** Dart • Swift • JavaScript • Python • JAVA
 
 **Flutter:** Flutter • Flutter Desktop • Responsive UI • Custom Widgets • Platform Channels
 
@@ -24,7 +24,7 @@ I'm always eager to learn new technologies, contribute to open-source projects, 
 
 🔭 I'm currently working as **Flutter Developer at ATI Limited**
 
-🌱 I'm currently learning **Laravel** & **SwiftUI**
+🌱 I'm currently learning **Spring Boot**
 
 👯 I'm looking to collaborate on **Flutter Open Source Projects**
 
